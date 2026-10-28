@@ -2,6 +2,8 @@
 
 An AI-powered resume analysis platform built with the MERN stack, Google Gemini AI, Tailwind CSS, and shadcn/ui. Upload your resume as a PDF, evaluate its ATS readiness, identify areas for improvement, generate stronger bullet points, and track your progress through version history and side-by-side comparisons.
 
+![Screenshot](images/Home_page.png)
+
 ## Overview
 
 AI Resume Checker helps job seekers improve their resumes using AI-driven feedback and structured analysis. It evaluates resumes against common Applicant Tracking System (ATS) best practices, highlights strengths and weaknesses, analyzes keywords for a target role, and suggests actionable improvements.
