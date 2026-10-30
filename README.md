@@ -126,12 +126,6 @@ Make sure the following are installed and available:
 
 ### Clone the Repository
 
-```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_PROJECT_DIRECTORY>
-```
-
-Replace the placeholders with your actual repository URL and project directory.
 
 ### Install Dependencies
 
@@ -146,8 +140,6 @@ npm install
 cd ../backend
 npm install
 ```
-
-If your repository uses different directory names or a workspace-based setup, adjust these commands accordingly.
 
 ### Configure Environment Variables
 
