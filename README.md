@@ -266,7 +266,6 @@ Contributions, bug reports, and feature suggestions are welcome.
 5. Submit a pull request describing your changes.
 
 
-
 ## Acknowledgments
 
 - [React](https://react.dev/)
