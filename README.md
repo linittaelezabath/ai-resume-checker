@@ -65,6 +65,7 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Most frequently present and missing keywords.
 - Per-resume performance analysis.
 - Filterable version list and chronological account history.
+![Screenshot](images/Insights.png)
 
 ### User Interface
 - Responsive design for different screen sizes.
