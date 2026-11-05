@@ -53,6 +53,7 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Word-level and line-level comparisons.
 - Side-by-side comparison of any two resume versions.
 - Tracking of resume improvements across revisions.
+![Screenshot](images/Version.png)
 
 ### Dashboard and Insights
 - Dashboard with key performance indicators.
