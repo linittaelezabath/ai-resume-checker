@@ -38,6 +38,7 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Five evidence-based resume strengths.
 - Identification of relevant and missing keywords for a target role.
 
+![Screenshot](images/Analysis.png)
 ### AI Bullet Point Rewriting
 - Rewrite weak resume bullet points with AI.
 - Generate stronger, clearer, and more results-oriented descriptions.
