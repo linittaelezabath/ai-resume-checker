@@ -71,6 +71,7 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Per-resume performance analysis.
 - Filterable version list and chronological account history.
 ![Screenshot](images/Insights.png)
+![Screenshot](images/Insights_2.png)
 
 ### User Interface
 - Responsive design for different screen sizes.
