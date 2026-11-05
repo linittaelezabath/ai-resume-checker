@@ -38,7 +38,7 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Five evidence-based resume strengths.
 - Identification of relevant and missing keywords for a target role.
 
-![Screenshot](images/Analysis.png)
+![Screenshot](images/Analysis_2.png)
 
 ![Screenshot](images/Analysis_3.png)
 
