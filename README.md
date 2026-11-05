@@ -39,6 +39,9 @@ Every upload and applied rewrite is saved as a new version, allowing users to tr
 - Identification of relevant and missing keywords for a target role.
 
 ![Screenshot](images/Analysis.png)
+
+![Screenshot](images/Analysis_3.png)
+
 ### AI Bullet Point Rewriting
 - Rewrite weak resume bullet points with AI.
 - Generate stronger, clearer, and more results-oriented descriptions.
